@@ -1,4 +1,12 @@
-# TreeMap或者TreeSet排序规则定义
+---
+layout: post
+title: TreeMap或者TreeSet排序规则定义
+date: 2024-05-13 
+Author: a1fly
+tags: [sample, document]
+comments: true
+---
+
 
 ## 如果是自定义的类（如Student）
 
